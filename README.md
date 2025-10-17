@@ -95,6 +95,28 @@
 
 ---
 
+## Опыт
+
+**RTUITLAB**
+
+* Работа с серверным оборудованием
+
+**ОАО "Электроприбор"**
+
+* Создание графической оболочки для консольной утилиты на PyQt5 
+![PyQt5](https://img.shields.io/badge/PyQt5-GUI-green)
+
+**Стартап**
+
+* Создание умной системы автополива на esp32 и arduino nano.
+![ESP32](https://img.shields.io/badge/ESP32-microcontroller-blue?logo=espressif)
+![Arduino Nano](https://img.shields.io/badge/Arduino%20Nano-microcontroller-green?logo=arduino)
+![MODBUS](https://img.shields.io/badge/MODBUS-protocol-orange)
+![RS485](https://img.shields.io/badge/RS485-interface-lightgrey)
+![C++](https://img.shields.io/badge/C++-language-blue?logo=c%2B%2B)
+
+---
+
 ## Образование
 
 **РТУ МИРЭА**, г. Москва
@@ -134,14 +156,6 @@
 * Работа в RTUITLAB:
 
   * Работа с серверным оборудованием
-
----
-
-## Опыт
-
-**RTUITLAB**
-
-* Работа с серверным оборудованием
 
 ---
 
